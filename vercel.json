@@ -2,7 +2,7 @@
 "rewrites": [
 {
 "source": "/updates",
-"destination": "/upadtes/index.html"
+"destination": "/Udpates/index.html"
 }
 ]
 }
