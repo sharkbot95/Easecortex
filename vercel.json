@@ -1,1 +1,8 @@
-
+{
+"rewrites": [
+{
+"source": "/updates",
+"destination": "/upadtes/index.html"
+}
+]
+}
